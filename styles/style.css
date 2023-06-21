@@ -24,8 +24,12 @@ p {
   width: 100%;
   padding:60px 0;
   text-align: center;
-  background: #33cccc;
-  background-image: /images/hero.jpg
+	position: relative;
+	background-image: url("https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627476216-101156.png");
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	height: 100%;
   color: white;
 }
 

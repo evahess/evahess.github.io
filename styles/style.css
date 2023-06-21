@@ -25,8 +25,8 @@ p {
   padding:60px 0;
   text-align: center;
 	position: relative;
-	background-image: url("https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627476216-101156.png");
-	background-position: center;
+	background-image: url("/images/hero.jpg");
+	background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 	height: 100%;
